@@ -251,7 +251,7 @@ function Index() {
                                 </div>
                               </div>
                             </div>
-                            <img className="YMEQtf inset-0 absolute" style={{ backgroundColor: "rgb(13, 17, 23)", width: "1536px", maxWidth: "100%", height: "auto" }} id="content_0" alt="Custom embed" src="/site-assets/86063fe80ddfb4c7.png" data-site-import-static-fallback="video" />
+                            <iframe className="YMEQtf inset-0 absolute" style={{ backgroundColor: "rgb(13, 17, 23)", width: "100%", height: "100%", border: 0 }} id="content_0" title="QuantSpread – Commodity Spread Trading Analytics" src="/embed/quantspread.html" />
                           </div>
                         </div>
                       </div>
@@ -303,7 +303,7 @@ function Index() {
       </div>
       <div aria-hidden="true" {...({ jscontroller: "YV8yqd", jsaction: "rcuQ6b:npT2md" } as any)} />
       <div style={{ position: "absolute", left: "0px", top: "-1px", zIndex: "-2", opacity: "0", height: "1px", width: "1px", overflow: "hidden" }} id="docs-aria-speakable" role="region" aria-live="assertive" aria-atomic="true" aria-hidden="false" />
-      <div className="VfPpkd-Sx9Kwc cC1eCc VfPpkd-Sx9Kwc-OWXEXe-FNFY6c items-center box-border justify-center left-0 fixed top-0 z-2001" {...({ jsshadow: "", jscontroller: "ZakeSe", jsaction: "jSjncc:FNFY6c;eUpBOd:pRhyN;OD2uJd:LSNysb;FBWqge:XzoRjc;PfPQGe:E9dKsb;KTLxtc:pXwq6c;r2ouV:FNFY6c;N4OFW:E9dKsb;G25Qzf:pXwq6c;JIbuQc:KY1IRb; clickonly: npT2md; mousedown: npT2md; keydown:KY1IRb; transitionend:H9K8kb;jgecHd:.CLIENT;ltBi9b:.CLIENT;", jsname: "jQ3kje" } as any)}>
+      <div hidden style={{ display: "none" }} className="VfPpkd-Sx9Kwc cC1eCc VfPpkd-Sx9Kwc-OWXEXe-FNFY6c items-center box-border justify-center left-0 fixed top-0 z-2001" {...({ jsshadow: "", jscontroller: "ZakeSe", jsaction: "jSjncc:FNFY6c;eUpBOd:pRhyN;OD2uJd:LSNysb;FBWqge:XzoRjc;PfPQGe:E9dKsb;KTLxtc:pXwq6c;r2ouV:FNFY6c;N4OFW:E9dKsb;G25Qzf:pXwq6c;JIbuQc:KY1IRb; clickonly: npT2md; mousedown: npT2md; keydown:KY1IRb; transitionend:H9K8kb;jgecHd:.CLIENT;ltBi9b:.CLIENT;", jsname: "jQ3kje" } as any)}>
         <div tabIndex={0} aria-hidden="true" {...({ jsaction: "focus:.CLIENT" } as any)} />
         <div className="VfPpkd-wzTsW items-center box-border flex-row justify-around">
           <div className="VfPpkd-P5QLlc flex-col grow-0 shrink-0 max-h-[calc(100%_-_32px)] min-w-[280px]" aria-modal="true" role="dialog" tabIndex={-1} aria-labelledby="c0">
